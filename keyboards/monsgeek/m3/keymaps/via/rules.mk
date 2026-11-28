@@ -2,3 +2,4 @@ VIA_ENABLE = yes
 DEBOUNCE_TYPE = sym_eager_pk
 CONSOLE_ENABLE = no
 MOUSEKEY_ENABLE = no
+NKRO_ENABLE = yes
